@@ -59,7 +59,7 @@
 | 경훈 | [Kimkyunghoon1117](https://github.com/Kimkyunghoon1117) | ✍ 열공 |
 | 용준 | [yjk490](https://github.com/yjk490) | ✍ 열공 |
 | 동환 | [YONGHYNG]() | ✍ 열공 |
-| (추가 예정) | - | - |
+| 재석 | - | - |
 
 ---
 
