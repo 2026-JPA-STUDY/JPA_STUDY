@@ -52,9 +52,13 @@
 
 | 이름 | GitHub | 상태 |
 |---|---|---|
+| 용학 | [YONGHYNG](https://github.com/YONGHYNG) | ✍ 열공 |
 | 덕린 | [YuDeokRin](https://github.com/YuDeokRin) | 👑 리드/정리 |
 | 원선 | [im1sun](https://github.com/im1sun) | 🔥 꾸준 |
-| 용학 | [YONGHYNG](https://github.com/YONGHYNG) | ✍ 열공 |
+| 정원 | [dev-wonny](https://github.com/dev-wonny) | ✍ 열공 |
+| 경훈 | [Kimkyunghoon1117](https://github.com/Kimkyunghoon1117) | ✍ 열공 |
+| 용준 | [yjk490](https://github.com/yjk490) | ✍ 열공 |
+| 동환 | [YONGHYNG]() | ✍ 열공 |
 | (추가 예정) | - | - |
 
 ---
